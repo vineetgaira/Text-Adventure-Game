@@ -1,0 +1,1 @@
+"""This file stores constants that will be frequently used in the game."""
