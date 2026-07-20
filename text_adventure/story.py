@@ -1,0 +1,1 @@
+"""This stores the story and works with user commands and moves the story foward with offering multiple results"""

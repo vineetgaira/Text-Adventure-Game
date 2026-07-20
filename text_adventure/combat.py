@@ -1,0 +1,1 @@
+""" When player is in danger or is fighting a boss"""

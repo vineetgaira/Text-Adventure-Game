@@ -1,0 +1,1 @@
+"""This describes the world around the user at the time."""

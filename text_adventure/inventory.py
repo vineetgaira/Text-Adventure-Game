@@ -1,0 +1,1 @@
+"""This functions keeps tracks of what the player has in it's inventory and what he stores in his inventory"""
