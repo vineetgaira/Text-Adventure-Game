@@ -1,4 +1,4 @@
 """This will store all the display functions"""
 
 def welcome():
-    pass
+    print("Welcome to The Cave")
