@@ -1,5 +1,3 @@
-"""Stores all the helper functions"""
-
 import os
 
 def clear_scree():
