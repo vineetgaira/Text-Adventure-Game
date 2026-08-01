@@ -9,5 +9,8 @@ def show_win():
 def show_score():
     pass
 
-def map():
+def show_map():
+    pass
+
+def show_character():
     pass
